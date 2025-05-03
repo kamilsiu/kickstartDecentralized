@@ -2,8 +2,8 @@ const HDWalletProvider = require('@truffle/hdwallet-provider');
 const {Web3} = require('web3');
 const compiledFactory  = require('../build/CampaignFactory.json');
 const provider = new HDWalletProvider(
-  'edit fury picnic degree hour capital energy motion fiction motion column element',
-  'https://sepolia.infura.io/v3/2ff4959de1694f42b96a7547de988be1'
+'your twelve-word mnemonic phrase here',
+  'https://sepolia.infura.io/v3/YOUR_INFURA_PROJECT_ID'
 );
 const web3 = new Web3(provider);
 
