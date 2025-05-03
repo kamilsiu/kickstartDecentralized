@@ -110,7 +110,7 @@ kickstart/
 ├── node_modules/                   # Dependencies installed via npm                 # Web3.js logic to interact with smart contracts
 ├── .gitignore                      # Git ignore file
 ├──  test/
-│   ├── Campaign.test.js
+│     ├── Campaign.test.js
 ├── package.json                    # Node.js dependencies and scripts
 ├── README.md                       # Project overview and instructions
 └── truffle-config.js               # Truffle configuration for deploying contracts (optional)
