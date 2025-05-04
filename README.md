@@ -15,6 +15,7 @@ Compile the smart contract using Truffle
 
 Run tests to verify the contract’s functionality (optional but recommended)
 
+
 ## Technologies Used 
 Web3.js – Library to interact with the Ethereum blockchain
 
@@ -25,6 +26,7 @@ Solidity – Programming language for smart contracts
 Truffle – Development framework for compiling, testing, and deploying contracts
 
 Infura – Provides access to the Ethereum network without running a full node
+
 
 ## Prerequisites
 Before getting started, make sure you have the following installed:
@@ -37,6 +39,7 @@ Truffle globally installed
 ```bash
 (npm install -g truffle)
 ```
+
 You’ll also need:
 
 &nbsp;A Sepolia testnet wallet address (you can get one from MetaMask or similar wallet).
