@@ -78,8 +78,8 @@ Contributing to a campaign.
 In the ethereum/deploy.js file, replace the placeholders with your own wallet mnemonic and Infura project ID:
 ```bash
 const provider = new HDWalletProvider(
-  'your wallet mnemonic here', // Replace with your wallet's mnemonic
-  'https://sepolia.infura.io/v3/your-infura-project-id' // Replace with your Infura project ID
+  'your wallet mnemonic here',
+  'https://sepolia.infura.io/v3/your-infura-project-id' 
 );
 ```
 Running the Deployment Script
