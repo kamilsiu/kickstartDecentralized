@@ -123,7 +123,7 @@ kickstart/
 ├── README.md                       # Project overview and instructions
 └── truffle-config.js               # Truffle configuration for deploying contracts (optional)
 ```
-## Troubleshooting
+## 5. Troubleshooting
 If you encounter any issues:
 
   Double-check your wallet mnemonic and Infura project ID.
