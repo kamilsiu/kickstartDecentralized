@@ -130,6 +130,7 @@ If you encounter any issues:
   Ensure you have Sepolia ETH from a faucet for contract deployment.
 
   Verify the Infura endpoint for Sepolia.
+<br><br>
 
 ## License
 This project is open-source and available under the MIT License.
