@@ -3,10 +3,7 @@ Kickstart is a decentralized smart contract that enables users to create and man
 
 Kickstart utilizes a decentralized smart contract to foster trust in the fundraising process. The contract implements a governance mechanism where a majority of approvers (fundraisers) must approve the contract manager's ability to deposit funds into a designated account. This ensures that the contract manager cannot unilaterally access the funds, and funds can only be transferred if at least half of the fundraisers approve the transaction.
 
-By involving multiple stakeholders in decision-making, this mechanism reduces the risk of fraud and increases transparency, as all approvals are recorded immutably on the blockchain. This decentralized approach ensures that no single party, including the contract manager, has full control over the funds, thereby instilling confidence among all participants in the fundraising process.
-
-
-
+By involving multiple stakeholders in decision-making, this mechanism reduces the risk of fraud and increases transparency, as all approvals are recorded immutably on the blockchain. This decentralized approach ensures that no single party, including the contract manager, has full control over the funds, thereby instilling confidence among all participants in the fundraising process.<br><br>
 
 ## Overview
 This project demonstrates how to:
