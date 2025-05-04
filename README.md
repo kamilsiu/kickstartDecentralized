@@ -86,6 +86,7 @@ const provider = new HDWalletProvider(
   'https://sepolia.infura.io/v3/your-infura-project-id' 
 );
 ```
+
 Running the Deployment Script
 Once you've set up your wallet details, you can deploy the smart contract by running:
 
