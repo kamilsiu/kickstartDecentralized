@@ -15,7 +15,7 @@ Compile the smart contract using Truffle
 
 Run tests to verify the contract’s functionality (optional but recommended)
 
-##Technologies Used 
+## Technologies Used 
 Web3.js – Library to interact with the Ethereum blockchain
 
 HDWalletProvider – Securely manage private keys and connect to Ethereum nodes
@@ -37,7 +37,7 @@ Truffle globally installed
 ```bash
 (npm install -g truffle)
 ```
-## You’ll also need:
+You’ll also need:
 
 &nbsp;A Sepolia testnet wallet address (you can get one from MetaMask or similar wallet).
 &nbsp;Some Sepolia testnet ETH for deploying the contract (use faucets like Sepolia faucet).
