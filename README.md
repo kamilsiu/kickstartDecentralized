@@ -25,8 +25,8 @@ Solidity – Programming language for smart contracts
 
 Truffle – Development framework for compiling, testing, and deploying contracts
 
-Infura – Provides access to the Ethereum network without running a full node
-
+Infura – Provides access to the Ethereum network without running a full node<br>
+<br>
 
 ## Prerequisites
 Before getting started, make sure you have the following installed:
