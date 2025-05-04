@@ -6,6 +6,8 @@ Kickstart utilizes a decentralized smart contract to foster trust in the fundrai
 By involving multiple stakeholders in decision-making, this mechanism reduces the risk of fraud and increases transparency, as all approvals are recorded immutably on the blockchain. This decentralized approach ensures that no single party, including the contract manager, has full control over the funds, thereby instilling confidence among all participants in the fundraising process.
 
 
+
+
 ## Overview
 This project demonstrates how to:
 
@@ -14,6 +16,8 @@ Deploy a smart contract to the Sepolia testnet
 Compile the smart contract using Truffle
 
 Run tests to verify the contract’s functionality (optional but recommended)
+
+
 
 
 ## Technologies Used 
@@ -25,8 +29,9 @@ Solidity – Programming language for smart contracts
 
 Truffle – Development framework for compiling, testing, and deploying contracts
 
-Infura – Provides access to the Ethereum network without running a full node<br>
-<br>
+Infura – Provides access to the Ethereum network without running a full node
+
+
 
 ## Prerequisites
 Before getting started, make sure you have the following installed:
