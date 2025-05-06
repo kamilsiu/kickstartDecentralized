@@ -78,8 +78,8 @@ Contributing to a campaign.
 In the ethereum/deploy.js file, replace the placeholders with your own wallet mnemonic and Infura project ID:
 ```bash
 const provider = new HDWalletProvider(
-  'your wallet mnemonic here', // Replace with your wallet's mnemonic
-  'https://sepolia.infura.io/v3/your-infura-project-id' // Replace with your Infura project ID
+  'your wallet mnemonic here',
+  'https://sepolia.infura.io/v3/your-infura-project-id' 
 );
 ```
 Running the Deployment Script
@@ -110,7 +110,7 @@ kickstart/
 ├── node_modules/                   # Dependencies installed via npm                 # Web3.js logic to interact with smart contracts
 ├── .gitignore                      # Git ignore file
 ├──  test/
-│   ├── Campaign.test.js
+│     ├── Campaign.test.js
 ├── package.json                    # Node.js dependencies and scripts
 ├── README.md                       # Project overview and instructions
 └── truffle-config.js               # Truffle configuration for deploying contracts (optional)
