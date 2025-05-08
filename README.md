@@ -7,7 +7,7 @@ Kickstart utilizes a decentralized smart contract to foster trust in the fundrai
 By involving multiple stakeholders in decision-making, this mechanism reduces the risk of fraud and increases transparency, as all approvals are recorded immutably on the blockchain. This decentralized approach ensures that no single party, including the contract manager, has full control over the funds, thereby instilling confidence among all participants in the fundraising process.<br><br>
 
 ## Overview
-This project demonstrates how to:
+This project demonstrates how to :
 
 Deploy a smart contract to the Sepolia testnet
 
