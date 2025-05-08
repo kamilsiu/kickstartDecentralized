@@ -1,6 +1,6 @@
 ## Kickstart – Decentralized Campaign Management
 
-Kickstart is a decentralized smart contract that enables users to create and manage fundraising campaigns on the Ethereum blockchain. This project demonstrates the process of compiling, deploying, and testing a smart contract on the Sepolia testnet. While the frontend for user interaction isn’t implemented yet, the smart contract itself provides the functionality for a trustless and transparent campaign management system.
+Kickstart is a decentralized smart contract that enables users to create and manage fundraising campaigns on the Ethereum blockchain. This project demonstrates the process of compiling, deploying, and testing a smart contract on the Sepolia testnet. While the frontend for user interaction isn’t implemented yet, the smart contract itself provides the functionality for a trustless and transparent campaign management system .
 
 Kickstart utilizes a decentralized smart contract to foster trust in the fundraising process. The contract implements a governance mechanism where a majority of approvers (fundraisers) must approve the contract manager's ability to deposit funds into a designated account. This ensures that the contract manager cannot unilaterally access the funds, and funds can only be transferred if at least half of the fundraisers approve the transaction.
  
