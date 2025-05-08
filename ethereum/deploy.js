@@ -3,7 +3,7 @@ const {Web3} = require('web3');
 const compiledFactory  = require('../build/CampaignFactory.json');
 const provider = new HDWalletProvider(
   'YOUR MNEMONIC PHRASE',
-  'https://sepolia.infura.io/v3/2ff4959de1694f42b96a7547de988be1'
+  'https://sepolia.infura.io/v3/YOUR_INFURA_PROJECT'
 );
 const web3 = new Web3(provider);
 
